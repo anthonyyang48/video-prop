@@ -1,0 +1,32 @@
+body {
+   background-image: url("http://crevisio.com/images/posts/127/eHzxnR6MX/Crevisio-127-eHzxnR6MX.jpg");
+    background-repeat: no-repeat;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.videos { 
+    position: absolute;
+    left: 300px;
+    top: 120px;
+    
+}
+
+img { 
+    width: 35%;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
+
+.container{
+    text-align: center;
+    right: -50px;
+    position: absolute; 
+    top: -10px;
+}
+
